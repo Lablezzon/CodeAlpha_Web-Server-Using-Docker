@@ -61,6 +61,7 @@ docker run -d -p 8080:80 --name my-site mywebsite
 Open browser and visit:
 
 http://localhost:8080
+
 🌐 Expected Output
 
 A simple webpage displaying:
